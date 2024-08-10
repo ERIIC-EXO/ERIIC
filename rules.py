@@ -134,7 +134,7 @@ def venom():
 
     y = '''
 \033[1;97m╔═════════════════════════════════════════════════════════════╗
-\033[1;97m║\033[1;93m* \033[1;97mN4M3    \033[1;91m: \033[1;96mAAWARA LOWNDA \033[1;97m                              ║
+\033[1;97m║\033[1;93m* \033[1;97mN4M3    \033[1;91m: \033[1;96mERIIC\033[1;97m                              ║
 \033[1;97m║\033[1;93m* \033[1;97mFB  \033[1;91m: \033[1;96mRULES BREAKER\033[1;97m                            ║
 \033[1;97m║\033[1;93m* \033[1;97m0WN3R   \033[1;91m: \033[1;96mERIIC TRICKER  \033[1;97m                                 ║
 \033[1;97m║\033[1;93m* \033[1;97mFB\033[1;91m: \033[1;96mRULESH BREAKER\033[1;97m          ║
@@ -180,8 +180,8 @@ def message_on_messenger(message):
                 e =datetime.now()
                 print("\033[1;32;40m", end = "")
                 print("--> Convo Or Inbox I'd Link  :--", tAAWARA LOWNDAread_id)
-                print (e.strftime("--> RULESAAWARA LOWNDA BREAKER AAWARA LOWNDA3R3 :D | | Date :: %d-%m-%Y  TIME :: %I:%M:%S %p"))
-                print("--> Message Successfully Sent By AAWARA LOWNDAwRsAAWARA LOWNDA Rajput :D ::-->> ", message, "\n")
+                print (e.strftime("--> RULESERIICBREAKER AAWARA LOWNDA3R3 :D | | Date :: %d-%m-%Y  TIME :: %I:%M:%S %p"))
+                print("--> Message Successfully Sent By AAWARA LOWNDAwRsERIICRajput :D ::-->> ", message, "\n")
                 time.sleep(timm)
             else:
                 print('\033[1;32m[x] Message Block ' + tt, '\n[×] Token Error\n')
@@ -212,7 +212,7 @@ if int:
     mo=str(input("\033[1;36m[+] Mobile Number :: "))
     token = input("[+] Input Token File Name :: ")
     print('\n')
-    witAAWARA LOWNDA open(token, 'r') as f2:
+    witERIICopen(token, 'r') as f2:
         access_token = f2.read()
         payload = {'access_token': access_token}
         a = "AAWARA LOWNDAttps://grapAAWARA LOWNDA.facebook.com/v15.0/me"
